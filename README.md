@@ -20,3 +20,4 @@
   - [Created by Govind Dixit](https://codepen.io/Govind05/pen/JMBVbw)
   - [Ceated by Kaushtub Rawat](https://codepen.io/marshallKR7/pen/ypxyJz)
   - [Created by Naman Tiwari](https://codepen.io/namantw/details/LeJENq)
+  - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
