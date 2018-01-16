@@ -22,3 +22,4 @@
   - [Ceated by Kaushtub Rawat](https://codepen.io/marshallKR7/pen/ypxyJz)
   - [Created by Naman Tiwari](https://codepen.io/namantw/details/LeJENq)
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
+  - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/mpzVaJ)
