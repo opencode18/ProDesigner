@@ -8,10 +8,10 @@
   -  [Created by Govind Dixit](https://codepen.io/Govind05/pen/vpzWvv)
   -  [Created by Vivek Raj](https://codepen.io/vivek731/pen/zpJaeG)
   -  [Created by Kaushtub Rawat](https://codepen.io/marshallKR7/pen/eyPrXM)
-
-## Doge 
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godXgB)
   -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/aEaRxN)
+
+## Doge
   -  [Created by Nikita Jain](https://codepen.io/nikki1016/pen/OzwBVO)
   -  [Created by Vishal Pani](https://codepen.io/falconis/pen/rprNvY)
   -  [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/XVPrRr)
@@ -24,8 +24,6 @@
   - [Created by Naman Tiwari](https://codepen.io/namantw/details/LeJENq)
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/mpzVaJ)
-  
+
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
-
-
