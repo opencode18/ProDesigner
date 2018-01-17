@@ -23,3 +23,8 @@
   - [Created by Naman Tiwari](https://codepen.io/namantw/details/LeJENq)
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/mpzVaJ)
+  
+## Cat
+  - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
+
+
