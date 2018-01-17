@@ -7,6 +7,7 @@
   -  [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/MrBMMo)
   -  [Created by Govind Dixit](https://codepen.io/Govind05/pen/vpzWvv)
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godXgB)
+  -  [Created by Kaushtub Rawat](https://codepen.io/marshallKR7/pen/eyPrXM)
 
 ## Doge
   -  [Created by Nikita Jain](https://codepen.io/nikki1016/pen/OzwBVO)
