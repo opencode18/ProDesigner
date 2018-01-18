@@ -10,6 +10,7 @@
   -  [Created by Kaushtub Rawat](https://codepen.io/marshallKR7/pen/eyPrXM)
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godXgB)
   -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/aEaRxN)
+  -  [Created by Jigar Chavada](https://codepen.io/jsc39/pen/EoewNq)
 
 ## Doge
   -  [Created by Nikita Jain](https://codepen.io/nikki1016/pen/OzwBVO)
