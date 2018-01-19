@@ -44,6 +44,7 @@
 
 ## Chat UI
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/OzBdPR)
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/WdLPvw?editors=1000)
   
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
