@@ -35,6 +35,8 @@
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/JMwYYo)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/mpzVaJ)
+  - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/VyqpjQ)
+
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
