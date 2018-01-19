@@ -47,3 +47,6 @@
   
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
+ 
+ ## SVG Animations
+ - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
