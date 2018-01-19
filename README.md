@@ -26,6 +26,7 @@
   -  [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/XVPrRr)
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godvam)
   -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/XVyOMB)
+  -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/dJgwyK)
 
 
 
