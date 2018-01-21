@@ -55,3 +55,6 @@
  
  ## SVG Animations
  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
+ 
+ ## Parallax
+ - [Created by Druval CR](https://codepen.io/Druv/full/MrLZwM/)
