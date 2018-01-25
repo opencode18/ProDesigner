@@ -43,3 +43,6 @@
 ## Chat UI
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/OzBdPR)
 
+## IIIT-A website
+  - [Created by Vivek Raj](https://swaager.github.io/iiita/index.html)
+
