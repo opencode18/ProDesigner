@@ -1,5 +1,7 @@
 # ProDesigner
 
+[![OpenCode](https://img.shields.io/badge/Open-Code-ff6a00.svg?style=flat-square)](https://opencode18.github.io)
+
 ## Wine Glass
   -  [Created by Vishal Pani](https://codepen.io/falconis/pen/BJVbPo)
   -  [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/qpKwEw)
@@ -16,6 +18,7 @@
   -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/aEaRxN)
   -  [Created by Jigar Chavada](https://codepen.io/jsc39/pen/EoewNq)
   -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/KZrPNZ)
+  -  [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeaxLw?editors=1100)
 
 
 ## Doge
@@ -23,6 +26,9 @@
   -  [Created by Vishal Pani](https://codepen.io/falconis/pen/rprNvY)
   -  [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/XVPrRr)
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godvam)
+  -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/XVyOMB)
+  -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/dJgwyK)
+
 
 
 ## Login Page
@@ -33,6 +39,10 @@
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/RxYqMY)
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/JMwYYo)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/mpzVaJ)
+  - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/VyqpjQ)
+  - [Created by Ambuj Agrawal](https://codepen.io/cuz7_8_9/pen/MrLPgj)
+  - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
+
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
@@ -42,7 +52,20 @@
   
 ## Chat UI
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/OzBdPR)
+   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/jYQzPv)
 
+## Snowman
+  - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/ZvwdBj?editors=0100)
+  - [Created by Nikita Jain](https://codepen.io/nikki1016/details/mpvWoQ/)
+  - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/WdPyWp)
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/NXJdav)
+
+ ## SVG Animations
+ - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
+
+ ## Parallax
+ - [Created by Druval CR](https://codepen.io/Druv/full/MrLZwM/)
+ 
 ## IIIT-A website
   - [Created by Vivek Raj](https://swaager.github.io/iiita/index.html)
-
