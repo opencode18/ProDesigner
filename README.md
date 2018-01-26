@@ -48,6 +48,7 @@
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/EoqEVg)
   
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
