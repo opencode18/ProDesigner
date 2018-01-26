@@ -49,7 +49,6 @@
   
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
-  - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
 
   
 ## Chat UI
@@ -62,6 +61,7 @@
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/mpvWoQ/)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/WdPyWp)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/NXJdav)
+  - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
 
  ## SVG Animations
  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
