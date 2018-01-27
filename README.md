@@ -19,6 +19,7 @@
   -  [Created by Jigar Chavada](https://codepen.io/jsc39/pen/EoewNq)
   -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/KZrPNZ)
   -  [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeaxLw?editors=1100)
+  -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ppMbRJ)
 
 
 ## Doge
@@ -28,6 +29,7 @@
   -  [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/godvam)
   -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/XVyOMB)
   -  [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/dJgwyK)
+  -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ZvgJxo?editors=0100#0)
 
 
 
@@ -42,10 +44,11 @@
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/VyqpjQ)
   - [Created by Ambuj Agrawal](https://codepen.io/cuz7_8_9/pen/MrLPgj)
   - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
-
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKyOY)
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/EoqEVg)
   
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
@@ -61,6 +64,7 @@
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/mpvWoQ/)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/WdPyWp)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/NXJdav)
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKOKJ)
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
 
  ## SVG Animations
