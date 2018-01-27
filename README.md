@@ -63,6 +63,7 @@
   - [Created by Nikita Jain](https://codepen.io/nikki1016/details/mpvWoQ/)
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/WdPyWp)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/NXJdav)
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKOKJ)
 
  ## SVG Animations
  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
