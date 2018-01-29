@@ -20,6 +20,7 @@
   -  [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/KZrPNZ)
   -  [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeaxLw?editors=1100)
   -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ppMbRJ)
+  -  [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/gvOppP)
 
 
 ## Doge
