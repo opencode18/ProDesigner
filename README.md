@@ -55,10 +55,10 @@
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
-  
+
 ## Chat UI
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/OzBdPR)
-   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/jYQzPv)
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/jYQzPv)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
@@ -74,6 +74,9 @@
 
  ## Parallax
  - [Created by Druval CR](https://codepen.io/Druv/full/MrLZwM/)
- 
+
 ## IIIT-A website
   - [Created by Vivek Raj](https://swaager.github.io/iiita/index.html)
+
+## Isometric  Design
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/vpqyVR/)
