@@ -8,7 +8,7 @@ function select()
     window.scroll({ top: 0, left: 0, behavior: "smooth" });
     for(var j = 0; j < projects.length; j++)
     {
-        if(projects[j] != this)
+        if(projects[j] !== this)
         {
             projects[j].classList.remove("selected");
             links[j].style.display = "none";
