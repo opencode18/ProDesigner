@@ -81,3 +81,6 @@
 ## Isometric  Design
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/vpqyVR/)
   - [Created by Vishal Pani](https://codepen.io/falconis/pen/gvpLJr)
+
+## Superhero
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/VyojRq)
