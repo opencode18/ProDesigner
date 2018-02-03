@@ -73,3 +73,6 @@
  
 ## IIIT-A website
   - [Created by Vivek Raj](https://swaager.github.io/iiita/index.html)
+  
+## Superhero
+  - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/eVJQgy?editors=0100#)
