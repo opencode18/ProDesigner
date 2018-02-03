@@ -1,0 +1,96 @@
+body
+{
+    overflow-x: hidden;
+}
+.top-bar
+{
+    width: 100%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    background-color: rgba(21, 21, 21, 1);
+    position: fixed;
+    top: 0%;
+    left: 0%;
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 5vh;
+    z-index: 2;
+    overflow: hidden;
+}
+
+.side-bar
+{
+    position: fixed;
+    left: 0%;
+    top: 0%;
+    background-color: rgba(21, 21, 21, 1);
+    width: 20vh;
+    height: 100%;
+    overflow: hidden;
+}
+
+.projects
+{
+    position: relative;
+    top: 10vh;
+}
+
+.projects li
+{
+    padding-top: 2.5vh;
+    padding-bottom: 2.5vh;
+    list-style: none;
+    color: white;
+    text-align: center; 
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    border-bottom: 0.2vh solid white;
+}
+
+.projects li:hover
+{
+    background-color: rgba(31, 31, 31, 1);
+}
+
+.selected
+{
+    background-color: rgba(50, 50, 50, 1);
+    display: block;
+}
+
+.links
+{
+    position: absolute;
+    top: 15vh;
+    left: 35vh;
+    display: none;
+    width: 200vh;
+    overflow: hidden;
+}
+
+.links li
+{
+    padding-top: 3vh;
+    padding-right: 30vh;
+    font-size: 3vh;
+    font-family: cursive;
+    padding-bottom: 3vh;
+    width: 50vh;
+    display: inline-block;
+    float: left;
+}
+
+.links a
+{
+    color: black;
+    font-size: 3vh;
+    text-decoration: none;
+    
+}
+
+a:hover
+{
+    color: blue;
+}
+
