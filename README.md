@@ -70,6 +70,8 @@
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKOKJ)
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/MQavqY)
+  - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
+
 
  ## SVG Animations
  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
