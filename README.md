@@ -59,6 +59,7 @@
 ## Chat UI
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/OzBdPR)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/jYQzPv)
+  - [Created by Vishal Pani](https://codepen.io/falconis/full/GQJXKO/)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
@@ -68,6 +69,9 @@
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/NXJdav)
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKOKJ)
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
+  - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/MQavqY)
+  - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
+
 
  ## SVG Animations
  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeMqda)
@@ -84,3 +88,4 @@
 
 ## Superhero
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/VyojRq)
+  - [Created by Vishal Pani](https://codepen.io/falconis/full/vdKLJL/)
