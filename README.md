@@ -81,11 +81,14 @@
 
 ## IIIT-A website
   - [Created by Vivek Raj](https://swaager.github.io/iiita/index.html)
+  - [Created by Ananya Agrawal](https://ananya-agrawal.github.io/website/)
 
 ## Isometric  Design
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/vpqyVR/)
   - [Created by Vishal Pani](https://codepen.io/falconis/pen/gvpLJr)
+  - [Created by Jigar Chavada](https://codepen.io/jsc39/pen/aqpNMb)
 
 ## Superhero
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/VyojRq)
   - [Created by Vishal Pani](https://codepen.io/falconis/full/vdKLJL/)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/aqmmJR?editors=1100)
