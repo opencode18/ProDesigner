@@ -46,6 +46,7 @@
   - [Created by Ambuj Agrawal](https://codepen.io/cuz7_8_9/pen/MrLPgj)
   - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKyOY)
+  - [Created by Ayush Gupta](https://codepen.io/ak07/full/qxrPmg/)
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
