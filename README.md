@@ -48,6 +48,7 @@
   - [Created by Ambuj Agrawal](https://codepen.io/cuz7_8_9/pen/MrLPgj)
   - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKyOY)
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/BYpMdp/)
   - [Created by Ayush Gupta](https://codepen.io/ak07/full/qxrPmg/)
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
@@ -57,6 +58,7 @@
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/EoqEVg)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/RQbbQp/)
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/WMeNRB)
+  - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/WMpdzb/)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
@@ -101,4 +103,3 @@
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/aqmmJR?editors=1100)
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/MQpOrR)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/WMpJEe)
-
