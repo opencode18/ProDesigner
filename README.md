@@ -87,6 +87,7 @@
   - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
   - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/GQWXQP)
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/BYWJGB)
+  - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/wyJNWM)
 
 
  ## SVG Animations
