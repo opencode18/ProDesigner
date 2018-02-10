@@ -55,6 +55,7 @@
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/EoqEVg)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/RQbbQp/)
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/WMeNRB)
+  - [Created by Ayush Gupta](https://codepen.io/ak07/full/rJyZZm/)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
