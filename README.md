@@ -74,6 +74,7 @@
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/JMgXbd)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/MQavqY)
   - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
+  - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/GQWXQP)
 
 
  ## SVG Animations
