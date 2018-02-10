@@ -22,6 +22,7 @@
   -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ppMbRJ)
   -  [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/gvOppP)
   -  [Created by Ayush Gupta](https://codepen.io/ak07/full/Nypzad/)
+  -  [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/MQpzpL)
 
 
 ## Doge
@@ -53,6 +54,10 @@
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/rJyvqm)
+  - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/vdxzPv)
+  - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/JpWmqQ)
+  
+  
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
@@ -82,6 +87,7 @@
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/MQavqY)
   - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
   - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/GQWXQP)
+  - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/BYWJGB)
 
 
  ## SVG Animations
@@ -105,3 +111,4 @@
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/aqmmJR?editors=1100)
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/full/MQpOrR)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/WMpJEe)
+  - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/KQWGxy/)
