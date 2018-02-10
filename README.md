@@ -68,6 +68,7 @@
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/pen/jYQzPv)
   - [Created by Vishal Pani](https://codepen.io/falconis/full/GQJXKO/)
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/oEBQQe)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/GQWXyP)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
