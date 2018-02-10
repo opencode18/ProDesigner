@@ -53,7 +53,10 @@
   - [Created by Ayush Gupta](https://codepen.io/ak07/full/qxrPmg/)
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
+  - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/vdxzPv)
   - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/JpWmqQ)
+  
+  
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
