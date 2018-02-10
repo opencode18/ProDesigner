@@ -82,6 +82,7 @@
   - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/MQavqY)
   - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
   - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/GQWXQP)
+  - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/wyJNWM)
 
 
  ## SVG Animations
