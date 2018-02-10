@@ -21,6 +21,7 @@
   -  [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeaxLw?editors=1100)
   -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ppMbRJ)
   -  [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/gvOppP)
+  -  [Created by Ayush Gupta](https://codepen.io/ak07/full/Nypzad/)
 
 
 ## Doge
