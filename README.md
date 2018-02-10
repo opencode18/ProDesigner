@@ -21,6 +21,7 @@
   -  [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/LeaxLw?editors=1100)
   -  [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/ppMbRJ)
   -  [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/gvOppP)
+  -  [Created by Ayush Gupta](https://codepen.io/ak07/full/Nypzad/)
 
 
 ## Doge
@@ -48,7 +49,9 @@
   - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKyOY)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/BYpMdp/)
+  - [Created by Ayush Gupta](https://codepen.io/ak07/full/qxrPmg/)
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
