@@ -53,6 +53,7 @@
   - [Created by Ayush Gupta](https://codepen.io/ak07/full/qxrPmg/)
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
   - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
+  - [Created by Arpit Mishra](https://codepen.io/arpitmisraw/pen/rJyvqm)
   - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/vdxzPv)
   - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/JpWmqQ)
   
@@ -65,6 +66,7 @@
   - [Created by Rudransh Gupta](https://codepen.io/hacker1x1x1/pen/WMeNRB)
   - [Created by Ayush Gupta](https://codepen.io/ak07/full/rJyZZm/)
   - [Created by Ekansh Bansal](https://codepen.io/Ace-Bansal/full/WMpdzb/)
+  - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/KQWEze)
 
 ## Snowman
   - [Created by Vivek Raj](https://codepen.io/vivek731/pen/VyqvBW)
@@ -87,6 +89,7 @@
   - [Created by Vishal Pani](https://codepen.io/falconis/full/EQyyoQ/)
   - [Created by Sneha Mishra](https://codepen.io/Tlazypanda/pen/GQWXQP)
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/BYWJGB)
+  - [Created by Rahul Arulkumaran](https://codepen.io/rahulkumaran/pen/wyJNWM)
 
 
  ## SVG Animations
