@@ -48,6 +48,7 @@
   - [Created by Druval CR](https://codepen.io/Druv/pen/rpoogw)
   - [Created by Adesh Shukla](https://codepen.io/aadixiiita/pen/OzKyOY)
   - [Created by Jigar Chavada](https://codepen.io/jsc39/full/oEZoyB/)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/MrNOoy?editors=1100)
 
 ## Cat
   - [Created by Aayush Joglekar](https://codepen.io/aayushjoglekar/pen/dJgVMy)
