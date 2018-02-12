@@ -119,4 +119,4 @@
   - [Created by Yash Agarwal](https://codepen.io/yash-agarwal17/pen/KQWGxy/)
 
 ## Landing Page
--[Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/KQWEeb?editors=1000)
+  - [Created by Ananya Agrawal](https://codepen.io/ananya-agrawal/pen/KQWEeb?editors=1000)
